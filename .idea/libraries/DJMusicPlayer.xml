@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DJMusicPlayer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DJMusicPlayer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
